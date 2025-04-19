@@ -14,3 +14,5 @@ git status pour voir l'etat de nos fichier
 git checkout -b <nom de la branche >
 
 ```
+nous allons travaille maintenant avec les branche de façons proffessionnelle
+c'est la bonne pratique a suivre en entreprise
