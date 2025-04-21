@@ -8,7 +8,7 @@ git status pour voir l'etat de nos fichier
 
 ```
 
-##Creation branche ouais
+##Creation il l'y a conflit n'est ce pas
 
 ```Bash
 git checkout -b <nom de la branche >
